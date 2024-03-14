@@ -1,47 +1,52 @@
 [
     {
         "id": 1,
-        "cover-photo": "https://i.ibb.co/sWX3wss/download.png",
+        "cover_photo": "https://i.ibb.co/sWX3wss/download.png",
         "title": "Deep Space Exploration and Its Impact on Our Understanding of the Universe",
-        "author-photo": "https://i.ibb.co/p4TC4mW/jhanker-vai.png",
-        "author-name": "John Astronomer",
-        "reading-time": "10 mins",
-        "post-date": "2024-03-13"
+        "author_photo": "https://i.ibb.co/p4TC4mW/jhanker-vai.png",
+        "author_name": "John Astronomer",
+        "reading_time": 10,
+        "post_date": "2024-03-13",
+        "hash_tag": " #programming #coding"
     },
     {
         "id": 2,
-        "cover-photo": "https://i.ibb.co/TBX5VTs/1-Ly-Zcwu-LWv2-FAr-Oum-Cxobp-A.png",
+        "cover_photo": "https://i.ibb.co/TBX5VTs/1-Ly-Zcwu-LWv2-FAr-Oum-Cxobp-A.png",
         "title": "A Journey Through the Art and Science of Cooking Delicious and Nutritious Meals",
-        "author-photo": "https://i.ibb.co/p4TC4mW/jhanker-vai.png",
-        "author-name": "Chef Julia",
-        "reading-time": "15 mins",
-        "post-date": "2024-03-14"
+        "author_photo": "https://i.ibb.co/p4TC4mW/jhanker-vai.png",
+        "author_name": "Chef Julia",
+        "reading_time": 15,
+        "post_date": "2024-03-14",
+        "hash_tag": " #programming #coding"
     },
     {
         "id": 3,
-        "cover-photo": "https://i.ibb.co/TBX5VTs/1-Ly-Zcwu-LWv2-FAr-Oum-Cxobp-A.png",
+        "cover_photo": "https://i.ibb.co/TBX5VTs/1-Ly-Zcwu-LWv2-FAr-Oum-Cxobp-A.png",
         "title": "Tech Trends of 2024 and How They Are Shaping the Future of Technology",
-        "author-photo": "https://i.ibb.co/p4TC4mW/jhanker-vai.png",
-        "author-name": "Tech Guru",
-        "reading-time": "8 mins",
-        "post-date": "2024-03-15"
+        "author_photo": "https://i.ibb.co/p4TC4mW/jhanker-vai.png",
+        "author_name": "Tech Guru",
+        "reading_time": 5,
+        "post_date": "2024-03-15",
+        "hash_tag": " #programming #coding"
     },
     {
         "id": 4,
-        "cover-photo": "https://i.ibb.co/TBX5VTs/1-Ly-Zcwu-LWv2-FAr-Oum-Cxobp-A.png",
+        "cover_photo": "https://i.ibb.co/TBX5VTs/1-Ly-Zcwu-LWv2-FAr-Oum-Cxobp-A.png",
         "title": "Essential Tips for Your Physical and Mental Well-being",
-        "author-photo": "https://i.ibb.co/p4TC4mW/jhanker-vai.png",
-        "author-name": "Wellness Expert",
-        "reading-time": "12 mins",
-        "post-date": "2024-03-16"
+        "author_photo": "https://i.ibb.co/p4TC4mW/jhanker-vai.png",
+        "author_name": "Wellness Expert",
+        "reading_time": 12,
+        "post_date": "2024-03-16",
+        "hash_tag": " #programming #coding"
     },
     {
         "id": 5,
-        "cover-photo": "https://i.ibb.co/TBX5VTs/1-Ly-Zcwu-LWv2-FAr-Oum-Cxobp-A.png",
+        "cover_photo": "https://i.ibb.co/TBX5VTs/1-Ly-Zcwu-LWv2-FAr-Oum-Cxobp-A.png",
         "title": "A Guided Journey to Unleash Your Imagination and Craft Compelling Stories",
-        "author-photo": "https://i.ibb.co/p4TC4mW/jhanker-vai.png",
-        "author-name": "Writer's Muse",
-        "reading-time": "20 mins",
-        "post-date": "2024-03-17"
+        "author_photo": "https://i.ibb.co/p4TC4mW/jhanker-vai.png",
+        "author_name": "Writer's Muse",
+        "reading_time": 5,
+        "post_date": "2024-03-17",
+        "hash_tag": " #programming #coding"
     }
 ]

@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <Header></Header>
-      <div className='mt-3 flex lg:flex-row flex-col gap-4 items-center md:w-10/12 mx-auto'>
+      <div className='mt-3 flex lg:flex-row flex-col gap-4 md:w-10/12 mx-auto'>
         <Blogs></Blogs>
         <Bookmarks></Bookmarks>
       </div>
@@ -17,3 +17,7 @@ function App() {
 }
 
 export default App
+
+
+// import { FaBookmark } from "react-icons/fa6";
+// <FaBookmark></FaBookmark>
