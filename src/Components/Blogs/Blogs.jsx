@@ -9,7 +9,7 @@ const Blogs = ({ handelBookmarks, handleMakeRead }) => {
     useEffect(() => {
         const fetchData = async () => {
             try {
-                const res = await fetch('/public/data.json')
+                const res = await fetch('./data.json')
                 const data = await res.json()
                 setBlogs(data)
             } catch (error) {
