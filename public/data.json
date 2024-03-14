@@ -1,45 +1,45 @@
 [
     {
         "id": 1,
-        "cover-photo": "https://example.com/cover1.jpg",
+        "cover-photo": "https://i.ibb.co/sWX3wss/download.png",
         "title": "Deep Space Exploration and Its Impact on Our Understanding of the Universe",
-        "author-photo": "https://example.com/author1.jpg",
+        "author-photo": "https://i.ibb.co/p4TC4mW/jhanker-vai.png",
         "author-name": "John Astronomer",
         "reading-time": "10 mins",
         "post-date": "2024-03-13"
     },
     {
         "id": 2,
-        "cover-photo": "https://example.com/cover2.jpg",
+        "cover-photo": "https://i.ibb.co/TBX5VTs/1-Ly-Zcwu-LWv2-FAr-Oum-Cxobp-A.png",
         "title": "A Journey Through the Art and Science of Cooking Delicious and Nutritious Meals",
-        "author-photo": "https://example.com/author2.jpg",
+        "author-photo": "https://i.ibb.co/p4TC4mW/jhanker-vai.png",
         "author-name": "Chef Julia",
         "reading-time": "15 mins",
         "post-date": "2024-03-14"
     },
     {
         "id": 3,
-        "cover-photo": "https://example.com/cover3.jpg",
+        "cover-photo": "https://i.ibb.co/TBX5VTs/1-Ly-Zcwu-LWv2-FAr-Oum-Cxobp-A.png",
         "title": "Tech Trends of 2024 and How They Are Shaping the Future of Technology",
-        "author-photo": "https://example.com/author3.jpg",
+        "author-photo": "https://i.ibb.co/p4TC4mW/jhanker-vai.png",
         "author-name": "Tech Guru",
         "reading-time": "8 mins",
         "post-date": "2024-03-15"
     },
     {
         "id": 4,
-        "cover-photo": "https://example.com/cover4.jpg",
+        "cover-photo": "https://i.ibb.co/TBX5VTs/1-Ly-Zcwu-LWv2-FAr-Oum-Cxobp-A.png",
         "title": "Essential Tips for Your Physical and Mental Well-being",
-        "author-photo": "https://example.com/author4.jpg",
+        "author-photo": "https://i.ibb.co/p4TC4mW/jhanker-vai.png",
         "author-name": "Wellness Expert",
         "reading-time": "12 mins",
         "post-date": "2024-03-16"
     },
     {
         "id": 5,
-        "cover-photo": "https://example.com/cover5.jpg",
+        "cover-photo": "https://i.ibb.co/TBX5VTs/1-Ly-Zcwu-LWv2-FAr-Oum-Cxobp-A.png",
         "title": "A Guided Journey to Unleash Your Imagination and Craft Compelling Stories",
-        "author-photo": "https://example.com/author5.jpg",
+        "author-photo": "https://i.ibb.co/p4TC4mW/jhanker-vai.png",
         "author-name": "Writer's Muse",
         "reading-time": "20 mins",
         "post-date": "2024-03-17"

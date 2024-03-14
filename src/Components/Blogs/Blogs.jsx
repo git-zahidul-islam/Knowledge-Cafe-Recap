@@ -21,7 +21,7 @@ const Blogs = () => {
     }, [])
 
     return (
-        <div>
+        <div className="border-2 flex-1">
             <h1>Blog: {blogs.length}</h1>
             <div>
                 {
